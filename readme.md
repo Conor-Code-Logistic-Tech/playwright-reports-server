@@ -1,3 +1,9 @@
+# Pictures
+![alt text](<Screenshot 2026-09-10 at 11-52-47 Playwright Reports Server.png>)
+![alt text](<Screenshot 2026-09-10 at 11-52-53 Playwright Reports Server.png>)
+![alt text](<Screenshot 2026-09-10 at 11-53-00 Playwright Reports Server.png>)
+p![alt text](<Screenshot 2026-09-10 at 11-53-07 Playwright Reports Server.png>)
+
 # Playwright Reports Server
 
 A self-hosted home for your Playwright test results. Stores reports, merges sharded runs, tracks flakiness over time, and (optionally) runs LLM failure analysis you can read from the UI or pipe into your code assistant.
